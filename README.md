@@ -1,7 +1,7 @@
 
 # English-Arabic Neural Machine Translation (NMT)
 
-This project implements a Neural Machine Translation (NMT) system to translate English sentences into Arabic using TensorFlow and Keras. It employs a Sequence-to-Sequence (Seq2Seq) architecture with LSTM layers and an attention mechanism to improve translation accuracy. The dataset was downloaded from Kaggle and cleaned to remove noise, punctuation, and digits. Tokenization and padding were applied, followed by training the model. A simple Gradio interface is provided for testing translations interactively.
+This project implements a Neural Machine Translation (NMT) system to translate English sentences into Arabic using TensorFlow and Keras. It employs a Sequence-to-Sequence (Seq2Seq) architecture with Bidirectional LSTM layers and an attention mechanism to improve translation accuracy. The dataset was downloaded from Kaggle and cleaned to remove noise, punctuation, and digits. Tokenization and padding were applied, followed by training the model. A simple Gradio interface is provided for testing translations interactively.
 
 ## 🛠️ Tools Used
 
